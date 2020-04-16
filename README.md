@@ -1,6 +1,6 @@
 # Mercast
 Web based weather app of MerOS that is powered by [webkit2-launcher](https://github.com/mercode-org/webkit2-launcher) or Electron. 
-![mercast](screenshot2.png)
+![mercast](screenshot.png)
 
 ## Project setup
 ```
