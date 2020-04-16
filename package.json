@@ -1,9 +1,9 @@
 {
-  "name": "mercode-weather-web",
+  "name": "mercast",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "webkit2-launcer /dist/index.html",
+    "start": "webkit2-launcher .",
     "serve": "vue-cli-service serve --port 1024",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -30,11 +30,11 @@
     "vue-template-compiler": "^2.6.11"
   },
   "launcher": { 
-     "title": "Weather App", 
+     "title": "Mercast", 
      "icon": "gtk-yes", 
      "main": "./index.html", 
      "width": 450, 
-     "height": 700 
+     "height": 680 
   },
   "eslintConfig": {
     "root": true,
